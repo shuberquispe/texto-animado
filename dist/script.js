@@ -1,5 +1,5 @@
 let isFirefox = typeof InstallTrigger !== 'undefined';
-const words = "codesuniverse";
+const words = "textodeseado";
 
 let ANGLE = 360;
 const ANIMATION_DURATION = 4000;
